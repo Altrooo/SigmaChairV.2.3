@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/Altrooo/SigmaChairV2.3-Key-System/blob/main/Key%20System%201.1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Altrooo/SigmaChairV2.3-Key-System/refs/heads/main/Key%20System%201.1", true))()
